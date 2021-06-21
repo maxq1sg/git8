@@ -8,3 +8,8 @@ h1{
     background: yellow;
 }
 
+div{
+    border: 1px solid #000;
+    color: gray;
+    background: blue;
+}
